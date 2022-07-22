@@ -1,1 +1,3 @@
 # CSharp-Tutorials
+bin/
+obj/
