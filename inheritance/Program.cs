@@ -14,4 +14,12 @@ derived class: inheriting from it
 class: You can create objects from
 interface: Is similar to abstract class but without methods implementions
     but it's cpu frindly
+
+virtual: virtual keyword means when you inherit from the class you can override that method
+
+Polymoriphism: is the ability of an object to take many forms 
+    There are many types of polymorphims
+
+statis polymorphism = method overloading
+dynamic polymorphis = method overriding
 */
